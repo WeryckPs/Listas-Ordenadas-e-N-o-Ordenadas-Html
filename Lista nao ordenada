@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+     <title>Cesta Basica</title>
+</head>
+<body>
+    <ul>
+     <li>Arroz</li>
+     <li>Feijao</li>
+     <li>Macarrao</li>
+     <li>Oleo</li>
+     <li>Sal</li>
+     <li>Acucar</li>
+     <li>Leite</li>
+     <li>Leite condensado</li>
+     <li>Bolacha</li>
+     <li>Creme de leite</li>
+    </ul>
+</body>
+</html>
